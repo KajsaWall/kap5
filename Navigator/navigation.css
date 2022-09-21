@@ -1,0 +1,23 @@
+body {
+
+    background-color: rgb(247, 211, 216);
+}
+
+#navigation {
+
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+
+}
+
+.link {
+
+background-color: pink;
+padding: 10px 10px 10px 10px;
+margin: 10px;
+display: inline-block;
+color:white;
+
+
+}

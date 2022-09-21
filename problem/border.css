@@ -1,0 +1,27 @@
+
+div {
+
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    background-color: pink;
+
+}
+
+#circlea {
+   
+    border-radius: 50px 0px 50px 0px;
+
+}
+
+#circleb {
+
+    border-radius: 0px 50px 50px 0px;
+
+}
+
+#circlec {
+
+    border-radius: 100px;
+
+}
