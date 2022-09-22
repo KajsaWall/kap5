@@ -1,0 +1,62 @@
+/* Design:
+
+* Typsnitt som används: Georgia och Helvetica.
+* Färger: "gainsboro" och "ghostwhite"
+* Titelrutan har en höjd, padding-top och padding-bottom på 1/10 av webbläsarfönstrets höjd.
+* Rubriken (h1) i titelrutan har inga marginaler (dom är återställda till 0).
+* Brödtexten har en högst tillåtna bredd på 600px och automatiska marginaler åt höger och vänster. */
+
+body {
+    margin:0;
+    
+}
+
+#top {
+   
+    background-color: ghostwhite;
+    height: 10vh;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    border-bottom: 1px solid gainsboro;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin: 0%;
+}
+
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: 25px auto; 
+    line-height: 1.4;
+
+}
+
+#button {
+
+    display: inline-block;
+    background-color: pink;
+   
+    
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0, auto;
+
+    color: rgb(156, 35, 204);
+    text-decoration: none;
+
+    
+}
+
+main p {
+margin: 50;
+
+
+}

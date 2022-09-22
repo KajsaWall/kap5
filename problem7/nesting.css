@@ -1,0 +1,19 @@
+.first {
+    border: 10px solid red;
+    padding: 10px;
+}
+
+.second {
+    border: 10px solid green;
+    padding: 10px;
+}
+
+.third {
+    border: 10px solid blue;
+    padding: 10px;
+}
+
+.fourth {
+    border: 10px solid gold;
+    padding: 10px;
+}

@@ -1,6 +1,7 @@
 body {
 
-    background-color: rgb(247, 211, 216);
+    background: linear-gradient(pink, lightpink);
+    background-repeat: no-repeat;
 }
 
 #navigation {

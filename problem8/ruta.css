@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+
+}
+
+#ett {
+
+    width: 25vw;
+    height: 25vw;
+    background-color: skyblue;
+   
+}
+
+#tvo {
+
+    width: 25vw;
+    height: 25vw;
+    background-color: tomato;
+    margin-left: 25vw;
+   
+}
+
+#tre {
+
+    width: 25vw;
+    height: 25vw;
+    background-color: green;
+    margin-left: 50vw;
+
+}
+
+#fyr {
+
+    width: 25vw;
+    height: 25vw;
+    background-color: yellow;
+    margin-left: 75vw;
+}
